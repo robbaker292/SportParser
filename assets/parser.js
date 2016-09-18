@@ -1,3 +1,22 @@
+function Player (num, id) {
+	var num;
+	var name;
+	var events = [];
+}
+
+
+function Event (min, text, player) {
+
+}
+
+function Foul (min, text, player) {
+
+}
+
+function Shot (min, text, player, type) {
+
+}
+
 $(document).ready(function(){
 
 	$("#load").click(function() {
