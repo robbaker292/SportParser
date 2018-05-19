@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="687.81519"
+   height="539.62988"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="half-pitch.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>soccer_field</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview28"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0017391"
+     inkscape:cx="261.55488"
+     inkscape:cy="228.04671"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">soccer_field</title>
+  <!--         -->
+  <!--                  -->
+  <!--      -->
+  <!--         -->
+  <!--      -->
+  <!--         -->
+  <!--       -->
+  <!--         -->
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:connector-curvature="0"
+     d="M 3.1785747,274.47388 3.8507485,537.12829 685.30881,536.69364 683.96446,11.384811 2.506402,11.819448 3.1785747,274.47388 c 755.1296853,-0.48162 755.1296853,-0.48162 0,0 z"
+     id="svg_2"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     id="svg_3"
+     transform="matrix(-0.00127759,0.99999918,0.99999918,0.00127759,0,0)"
+     sodipodi:type="arc"
+     sodipodi:cx="535.2926"
+     sodipodi:cy="344.59137"
+     sodipodi:rx="91.5"
+     sodipodi:ry="91.5"
+     sodipodi:start="1.5527587"
+     sodipodi:end="4.7209356"
+     d="m 536.94296,436.07648 a 91.5,91.5 0 0 1 -80.46854,-45.00991 91.5,91.5 0 0 1 -0.43754,-92.20025 91.5,91.5 0 0 1 80.03773,-45.77161"
+     sodipodi:open="true" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     cx="-122.98844"
+     cy="343.22055"
+     r="2"
+     id="svg_6"
+     transform="matrix(-0.00127759,-0.99999918,0.99999918,-0.00127759,0,0)" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="m 307.63689,12.595423 -0.0128,-9.9999911 72.19996,-0.09224 0.0128,9.9999911 -72.19996,0.09224 z"
+     id="svg_8" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="m 252.63694,12.66569 0.0703,54.999955 182.19987,-0.232777 -0.0703,-54.999955 -182.19987,0.232777 z"
+     id="svg_10" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="m 142.63703,12.806225 0.2108,164.999865 402.19966,-0.51385 -0.2108,-164.999862 -402.19966,0.513847 z"
+     id="svg_12" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="m 270.32273,177.64323 a 91.5,91.5 0 0 0 146.24988,-0.18685 l -146.24988,0.18685 z"
+     id="svg_14" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="m 673.2366,12.128336 a 10,10 0 0 0 10.01277,9.987216 l -0.0128,-9.999992 -9.99999,0.01278 z"
+     id="svg_17" />
+  <path
+     style="fill-opacity:0;stroke:#000000;stroke-width:5"
+     inkscape:connector-curvature="0"
+     d="M 3.2499257,22.984313 A 10,10 0 0 0 13.237142,12.971545 l -9.9999913,0.01278 0.01278,9.999992 z"
+     id="svg_18" />
+</svg>
